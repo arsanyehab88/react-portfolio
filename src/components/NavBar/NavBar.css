@@ -1,0 +1,14 @@
+
+.color{
+    background-color: #2c3e50 ;
+    z-index: 999;
+}
+.size li{
+    font-size: 1.1rem;
+}
+.nav-link:focus, .nav-link{
+    transition: all .5s ease;
+}
+.nav-link:focus, .nav-link:hover{
+    color: #1abc9c !important;
+}

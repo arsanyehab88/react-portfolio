@@ -1,0 +1,12 @@
+.star{
+    width: 2rem !important;
+    color: #2c3e50 !important;
+}
+.lines-left{
+    margin-right:1rem ;
+    margin-top: .9rem;
+    background-color: #2c3e50;
+    width: 8rem;
+    height: .25rem;
+    border-radius: 1rem;
+}

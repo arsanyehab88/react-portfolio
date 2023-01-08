@@ -1,0 +1,20 @@
+.header{
+    background-color: #1abc9c ;
+    height: 100vh;
+}
+.header img{
+    width: 15rem;
+   margin-top: 80px;
+}
+.header h1{
+    font-size: 5rem;
+    line-height: 3.5rem;
+    font-weight: 700;
+}
+.header p{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.header .content{
+    margin-top: 2rem;
+}

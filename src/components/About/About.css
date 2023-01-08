@@ -1,0 +1,16 @@
+.about{
+    padding-bottom: 8rem;
+    background-color: #1abc9c;
+}
+.about h2{
+    padding-top: 8rem;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 700;
+    color: #fff;
+}
+
+.about p{
+    font-size: 1.25rem;
+    font-weight: 400;
+}
